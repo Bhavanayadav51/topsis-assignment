@@ -2,6 +2,7 @@ TOPSIS Decision Support System
 
 This repository contains a comprehensive implementation of the TOPSIS (Technique for Order Preference by Similarity to Ideal Solution) method, designed to support multi-criteria decision-making problems.
 The project showcases how the TOPSIS algorithm can be applied through multiple interfaces, making it practical for both technical and non-technical users.
+
 📌 Methodology
 
 The decision-making process in this project follows the standard TOPSIS workflow:
